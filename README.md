@@ -1,6 +1,5 @@
 ### Hi there 👋
-Watashi wa Dhruv Singh chauhan desu.
-Hajimemashite!
+
 <!--
 **dhruvchauhan2405/dhruvchauhan2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
